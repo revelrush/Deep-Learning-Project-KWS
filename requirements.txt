@@ -1,7 +1,7 @@
+numpy
 cython
 pycocotools
-numpy
-pytorch
+torch
 torchvision
 PIL
 pandas
