@@ -1,0 +1,8 @@
+cython
+pycocotools
+numpy
+pytorch
+torchvision
+PIL
+pandas
+gdown
