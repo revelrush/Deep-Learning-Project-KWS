@@ -1,0 +1,11 @@
+protobuf~=3.19.0
+torch
+torchaudio
+torchvision
+librosa
+numpy
+einops
+pytorch_lightning
+torchmetrics
+sounddevice
+PySimpleGUI 
