@@ -5,7 +5,7 @@
 This repository is to serve as my submission for assignment 3 in the deep learning elective.
 
 ## About the KWS Model:
-The model used was the Vit Transformer architechture provided by the course handler and has the following specifications: 4 heads, a depth of 12 and has an embedding dimension of 64. The model was also implemented using the pytorch lightning framework as instructed, and the dataset used to train the model was from the original KWS paper.
+The model used was the Vit Transformer architechture provided by the course handler and has the following specifications: 4 heads, a depth of 12 and has an embedding dimension of 64. The model was also implemented using the pytorch lightning framework as instructed, and the dataset used to train the model was from the original KWS paper. The highest test accuracy recorded for this model is 93%.
 
 ## Notes and Assumptions:
 The libraries used in this assignment are identical with the ones used in the KWS training demo, KWS app and Vit transformer training demo, with no new libraries used. In case any of the modules are missing, the command pip install -r requirements.txt can be used to install the missing modules. 
