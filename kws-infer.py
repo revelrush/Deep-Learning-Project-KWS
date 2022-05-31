@@ -22,7 +22,6 @@ model = LitTransformer.load_from_checkpoint('KWS.ckpt')
 
 idx_to_class = {i: c for i, c in enumerate(CLASSES)}
 sample_rate = 16000
-sd.default.device = 1
 sd.default.samplerate = sample_rate
 sd.default.channels = 1
 sg.theme('DarkAmber')
