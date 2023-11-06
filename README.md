@@ -22,5 +22,5 @@ All you need to do is to run the kws-infer.py file, it should open a simple GUI 
 
 There is a video demo attached that demonstrates the model in action.
 
-
+![video](kws-demo.mp4)
 
