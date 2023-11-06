@@ -22,8 +22,5 @@ All you need to do is to run the kws-infer.py file, it should open a simple GUI 
 
 There is a video demo attached that demonstrates the model in action.
 
-
-
-
-Uploading kws-demo.mp4…
+https://github.com/revelrush/Deep-Learning-Project-KWS/assets/84671795/7125da46-9447-49cb-bf02-57727d89fae6
 
