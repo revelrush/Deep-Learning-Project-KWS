@@ -1,4 +1,4 @@
-##Keyword Search (KWS) Application
+# Keyword Search (KWS) Application
 
 ## About the Project
 
