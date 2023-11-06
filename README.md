@@ -20,7 +20,7 @@ All you need to do is to run the kws-infer.py file, it should open a simple GUI 
 
 ![image](https://github.com/revelrush/Deep-Learning-Project-KWS/assets/84671795/e7a78525-8505-45b2-ab86-a5dd3bad12d6)
 
-There is a video demo attached that demonstrates the model in action.
+Here is a video demo that demonstrates the model in action.
 
 https://github.com/revelrush/Deep-Learning-Project-KWS/assets/84671795/7125da46-9447-49cb-bf02-57727d89fae6
 
