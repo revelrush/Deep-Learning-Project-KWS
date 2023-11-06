@@ -1,6 +1,6 @@
 #Keyword Search (KWS) Application
 
-## Student Name - Mith Concio
+## About the Project
 
 This repository contains the codebase for my assignment 3 in the deep learning elective under Dr. Atienza. In this project I implemented and trained a Vision Transformer (ViT) model using the Pytorch Lightning framework with the architecture and dataset provided by the instructor. Moreover, I optimized the configuration of the model’s attention algorithm to improve the model’s accuracy from a baseline of ~63% to 93%, while keeping the model as lightweight as possible. Finally there is also a basic demo application using the model that is able to detect up to 37 different keywords using real-time audio from a microphone.
 
